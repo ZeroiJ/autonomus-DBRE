@@ -1,0 +1,22 @@
+name: autonomic-dbre
+version: 1.0.0
+description: Self-improving Database Reliability Engineer with metacognitive playbook evolution
+author: DBRE Team
+entrypoint: server.app:app
+dockerfile: Dockerfile
+env_vars:
+  - DB_HOST
+  - DB_PORT
+  - DB_NAME
+  - DB_USER
+  - DB_PASSWORD
+requirements:
+  - psycopg2-binary
+  - pydantic
+  - fastapi
+  - uvicorn
+  - numpy
+  - sqlparse
+  - sqlglot
+  - gradio
+  - plotly

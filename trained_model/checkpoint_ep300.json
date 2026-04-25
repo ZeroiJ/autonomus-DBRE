@@ -1,0 +1,4230 @@
+{
+  "episode": 300,
+  "reward_history": [
+    {
+      "episode": 1,
+      "reward": 4.978,
+      "avg_reward_10": 4.978,
+      "steps": 10,
+      "timestamp": 1777126164.553006
+    },
+    {
+      "episode": 2,
+      "reward": 4.964,
+      "avg_reward_10": 4.971,
+      "steps": 10,
+      "timestamp": 1777126164.6247747
+    },
+    {
+      "episode": 3,
+      "reward": 0.0,
+      "avg_reward_10": 3.314,
+      "steps": 10,
+      "timestamp": 1777126164.6364028
+    },
+    {
+      "episode": 4,
+      "reward": 0.0,
+      "avg_reward_10": 2.4855,
+      "steps": 10,
+      "timestamp": 1777126164.6565526
+    },
+    {
+      "episode": 5,
+      "reward": 0.0,
+      "avg_reward_10": 1.9884,
+      "steps": 10,
+      "timestamp": 1777126164.677431
+    },
+    {
+      "episode": 6,
+      "reward": 0.992,
+      "avg_reward_10": 1.8223,
+      "steps": 10,
+      "timestamp": 1777126164.7039192
+    },
+    {
+      "episode": 7,
+      "reward": 2.493,
+      "avg_reward_10": 1.9181,
+      "steps": 10,
+      "timestamp": 1777126164.7468605
+    },
+    {
+      "episode": 8,
+      "reward": 0.498,
+      "avg_reward_10": 1.7406,
+      "steps": 10,
+      "timestamp": 1777126164.7668588
+    },
+    {
+      "episode": 9,
+      "reward": 0.496,
+      "avg_reward_10": 1.6023,
+      "steps": 10,
+      "timestamp": 1777126164.7873487
+    },
+    {
+      "episode": 10,
+      "reward": 2.982,
+      "avg_reward_10": 1.7403,
+      "steps": 10,
+      "timestamp": 1777126164.8477309
+    },
+    {
+      "episode": 11,
+      "reward": 0.0,
+      "avg_reward_10": 1.2425,
+      "steps": 10,
+      "timestamp": 1777126164.867724
+    },
+    {
+      "episode": 12,
+      "reward": 0.497,
+      "avg_reward_10": 0.7958,
+      "steps": 10,
+      "timestamp": 1777126164.8993008
+    },
+    {
+      "episode": 13,
+      "reward": 0.0,
+      "avg_reward_10": 0.7958,
+      "steps": 10,
+      "timestamp": 1777126164.9201362
+    },
+    {
+      "episode": 14,
+      "reward": 0.497,
+      "avg_reward_10": 0.8455,
+      "steps": 10,
+      "timestamp": 1777126164.9485285
+    },
+    {
+      "episode": 15,
+      "reward": 1.489,
+      "avg_reward_10": 0.9944,
+      "steps": 10,
+      "timestamp": 1777126164.987492
+    },
+    {
+      "episode": 16,
+      "reward": 0.0,
+      "avg_reward_10": 0.8952,
+      "steps": 10,
+      "timestamp": 1777126165.0058584
+    },
+    {
+      "episode": 17,
+      "reward": 0.0,
+      "avg_reward_10": 0.6459,
+      "steps": 10,
+      "timestamp": 1777126165.0239606
+    },
+    {
+      "episode": 18,
+      "reward": 0.0,
+      "avg_reward_10": 0.5961,
+      "steps": 10,
+      "timestamp": 1777126165.040072
+    },
+    {
+      "episode": 19,
+      "reward": 0.0,
+      "avg_reward_10": 0.5465,
+      "steps": 10,
+      "timestamp": 1777126165.062516
+    },
+    {
+      "episode": 20,
+      "reward": 0.0,
+      "avg_reward_10": 0.2483,
+      "steps": 10,
+      "timestamp": 1777126165.083817
+    },
+    {
+      "episode": 21,
+      "reward": 0.497,
+      "avg_reward_10": 0.298,
+      "steps": 10,
+      "timestamp": 1777126165.1147838
+    },
+    {
+      "episode": 22,
+      "reward": 0.0,
+      "avg_reward_10": 0.2483,
+      "steps": 10,
+      "timestamp": 1777126165.137133
+    },
+    {
+      "episode": 23,
+      "reward": 0.0,
+      "avg_reward_10": 0.2483,
+      "steps": 10,
+      "timestamp": 1777126165.1553698
+    },
+    {
+      "episode": 24,
+      "reward": 0.497,
+      "avg_reward_10": 0.2483,
+      "steps": 10,
+      "timestamp": 1777126165.1814294
+    },
+    {
+      "episode": 25,
+      "reward": 0.0,
+      "avg_reward_10": 0.0994,
+      "steps": 10,
+      "timestamp": 1777126165.2001657
+    },
+    {
+      "episode": 26,
+      "reward": 4.966,
+      "avg_reward_10": 0.596,
+      "steps": 10,
+      "timestamp": 1777126165.274609
+    },
+    {
+      "episode": 27,
+      "reward": 0.0,
+      "avg_reward_10": 0.596,
+      "steps": 10,
+      "timestamp": 1777126165.2971852
+    },
+    {
+      "episode": 28,
+      "reward": 0.0,
+      "avg_reward_10": 0.596,
+      "steps": 10,
+      "timestamp": 1777126165.3200204
+    },
+    {
+      "episode": 29,
+      "reward": 0.0,
+      "avg_reward_10": 0.596,
+      "steps": 10,
+      "timestamp": 1777126165.3356857
+    },
+    {
+      "episode": 30,
+      "reward": 0.0,
+      "avg_reward_10": 0.596,
+      "steps": 10,
+      "timestamp": 1777126165.3557177
+    },
+    {
+      "episode": 31,
+      "reward": 0.995,
+      "avg_reward_10": 0.6458,
+      "steps": 10,
+      "timestamp": 1777126165.3925858
+    },
+    {
+      "episode": 32,
+      "reward": 0.0,
+      "avg_reward_10": 0.6458,
+      "steps": 10,
+      "timestamp": 1777126165.4070947
+    },
+    {
+      "episode": 33,
+      "reward": 0.0,
+      "avg_reward_10": 0.6458,
+      "steps": 10,
+      "timestamp": 1777126165.4316792
+    },
+    {
+      "episode": 34,
+      "reward": 0.0,
+      "avg_reward_10": 0.5961,
+      "steps": 10,
+      "timestamp": 1777126165.4547124
+    },
+    {
+      "episode": 35,
+      "reward": 0.0,
+      "avg_reward_10": 0.5961,
+      "steps": 10,
+      "timestamp": 1777126165.4821486
+    },
+    {
+      "episode": 36,
+      "reward": 1.987,
+      "avg_reward_10": 0.2982,
+      "steps": 10,
+      "timestamp": 1777126165.5295079
+    },
+    {
+      "episode": 37,
+      "reward": 0.496,
+      "avg_reward_10": 0.3478,
+      "steps": 10,
+      "timestamp": 1777126165.5590699
+    },
+    {
+      "episode": 38,
+      "reward": 0.0,
+      "avg_reward_10": 0.3478,
+      "steps": 10,
+      "timestamp": 1777126165.5818422
+    },
+    {
+      "episode": 39,
+      "reward": 0.993,
+      "avg_reward_10": 0.4471,
+      "steps": 10,
+      "timestamp": 1777126165.618712
+    },
+    {
+      "episode": 40,
+      "reward": 0.0,
+      "avg_reward_10": 0.4471,
+      "steps": 10,
+      "timestamp": 1777126165.6408348
+    },
+    {
+      "episode": 41,
+      "reward": 0.497,
+      "avg_reward_10": 0.3973,
+      "steps": 10,
+      "timestamp": 1777126165.6736543
+    },
+    {
+      "episode": 42,
+      "reward": 0.992,
+      "avg_reward_10": 0.4965,
+      "steps": 10,
+      "timestamp": 1777126165.7109392
+    },
+    {
+      "episode": 43,
+      "reward": 0.0,
+      "avg_reward_10": 0.4965,
+      "steps": 10,
+      "timestamp": 1777126165.7292855
+    },
+    {
+      "episode": 44,
+      "reward": 0.499,
+      "avg_reward_10": 0.5464,
+      "steps": 10,
+      "timestamp": 1777126165.7562828
+    },
+    {
+      "episode": 45,
+      "reward": 0.996,
+      "avg_reward_10": 0.646,
+      "steps": 10,
+      "timestamp": 1777126165.7923238
+    },
+    {
+      "episode": 46,
+      "reward": 0.998,
+      "avg_reward_10": 0.5471,
+      "steps": 10,
+      "timestamp": 1777126165.822671
+    },
+    {
+      "episode": 47,
+      "reward": 0.0,
+      "avg_reward_10": 0.4975,
+      "steps": 10,
+      "timestamp": 1777126165.845872
+    },
+    {
+      "episode": 48,
+      "reward": 0.0,
+      "avg_reward_10": 0.4975,
+      "steps": 10,
+      "timestamp": 1777126165.8666174
+    },
+    {
+      "episode": 49,
+      "reward": 0.496,
+      "avg_reward_10": 0.4478,
+      "steps": 10,
+      "timestamp": 1777126165.8957987
+    },
+    {
+      "episode": 50,
+      "reward": 0.0,
+      "avg_reward_10": 0.4478,
+      "steps": 10,
+      "timestamp": 1777126165.9209237
+    },
+    {
+      "episode": 51,
+      "reward": 0.0,
+      "avg_reward_10": 0.3981,
+      "steps": 10,
+      "timestamp": 1777126165.9408207
+    },
+    {
+      "episode": 52,
+      "reward": 0.0,
+      "avg_reward_10": 0.2989,
+      "steps": 10,
+      "timestamp": 1777126165.9685624
+    },
+    {
+      "episode": 53,
+      "reward": 0.0,
+      "avg_reward_10": 0.2989,
+      "steps": 10,
+      "timestamp": 1777126165.9910674
+    },
+    {
+      "episode": 54,
+      "reward": 0.0,
+      "avg_reward_10": 0.249,
+      "steps": 10,
+      "timestamp": 1777126166.007891
+    },
+    {
+      "episode": 55,
+      "reward": 0.0,
+      "avg_reward_10": 0.1494,
+      "steps": 10,
+      "timestamp": 1777126166.0284405
+    },
+    {
+      "episode": 56,
+      "reward": 1.987,
+      "avg_reward_10": 0.2483,
+      "steps": 10,
+      "timestamp": 1777126166.072644
+    },
+    {
+      "episode": 57,
+      "reward": 1.992,
+      "avg_reward_10": 0.4475,
+      "steps": 10,
+      "timestamp": 1777126166.120541
+    },
+    {
+      "episode": 58,
+      "reward": 0.0,
+      "avg_reward_10": 0.4475,
+      "steps": 10,
+      "timestamp": 1777126166.1427507
+    },
+    {
+      "episode": 59,
+      "reward": 0.992,
+      "avg_reward_10": 0.4971,
+      "steps": 10,
+      "timestamp": 1777126166.1769946
+    },
+    {
+      "episode": 60,
+      "reward": 0.0,
+      "avg_reward_10": 0.4971,
+      "steps": 10,
+      "timestamp": 1777126166.206764
+    },
+    {
+      "episode": 61,
+      "reward": 0.0,
+      "avg_reward_10": 0.4971,
+      "steps": 10,
+      "timestamp": 1777126166.235373
+    },
+    {
+      "episode": 62,
+      "reward": 0.0,
+      "avg_reward_10": 0.4971,
+      "steps": 10,
+      "timestamp": 1777126166.2625198
+    },
+    {
+      "episode": 63,
+      "reward": 0.0,
+      "avg_reward_10": 0.4971,
+      "steps": 10,
+      "timestamp": 1777126166.2853158
+    },
+    {
+      "episode": 64,
+      "reward": 0.497,
+      "avg_reward_10": 0.5468,
+      "steps": 10,
+      "timestamp": 1777126166.3205228
+    },
+    {
+      "episode": 65,
+      "reward": 0.496,
+      "avg_reward_10": 0.5964,
+      "steps": 10,
+      "timestamp": 1777126166.348017
+    },
+    {
+      "episode": 66,
+      "reward": 0.0,
+      "avg_reward_10": 0.3977,
+      "steps": 10,
+      "timestamp": 1777126166.3725107
+    },
+    {
+      "episode": 67,
+      "reward": 1.495,
+      "avg_reward_10": 0.348,
+      "steps": 10,
+      "timestamp": 1777126166.4168308
+    },
+    {
+      "episode": 68,
+      "reward": 0.0,
+      "avg_reward_10": 0.348,
+      "steps": 10,
+      "timestamp": 1777126166.4438913
+    },
+    {
+      "episode": 69,
+      "reward": 0.0,
+      "avg_reward_10": 0.2488,
+      "steps": 10,
+      "timestamp": 1777126166.462026
+    },
+    {
+      "episode": 70,
+      "reward": 0.0,
+      "avg_reward_10": 0.2488,
+      "steps": 10,
+      "timestamp": 1777126166.4815083
+    },
+    {
+      "episode": 71,
+      "reward": 0.0,
+      "avg_reward_10": 0.2488,
+      "steps": 10,
+      "timestamp": 1777126166.5073638
+    },
+    {
+      "episode": 72,
+      "reward": 1.49,
+      "avg_reward_10": 0.3978,
+      "steps": 10,
+      "timestamp": 1777126166.5496137
+    },
+    {
+      "episode": 73,
+      "reward": 1.494,
+      "avg_reward_10": 0.5472,
+      "steps": 10,
+      "timestamp": 1777126166.5904648
+    },
+    {
+      "episode": 74,
+      "reward": 0.993,
+      "avg_reward_10": 0.5968,
+      "steps": 10,
+      "timestamp": 1777126166.6251187
+    },
+    {
+      "episode": 75,
+      "reward": 0.0,
+      "avg_reward_10": 0.5472,
+      "steps": 10,
+      "timestamp": 1777126166.6490588
+    },
+    {
+      "episode": 76,
+      "reward": 0.0,
+      "avg_reward_10": 0.5472,
+      "steps": 10,
+      "timestamp": 1777126166.6754444
+    },
+    {
+      "episode": 77,
+      "reward": 0.0,
+      "avg_reward_10": 0.3977,
+      "steps": 10,
+      "timestamp": 1777126166.6957848
+    },
+    {
+      "episode": 78,
+      "reward": 0.0,
+      "avg_reward_10": 0.3977,
+      "steps": 10,
+      "timestamp": 1777126166.7164788
+    },
+    {
+      "episode": 79,
+      "reward": 0.0,
+      "avg_reward_10": 0.3977,
+      "steps": 10,
+      "timestamp": 1777126166.7406576
+    },
+    {
+      "episode": 80,
+      "reward": 0.0,
+      "avg_reward_10": 0.3977,
+      "steps": 10,
+      "timestamp": 1777126166.7612517
+    },
+    {
+      "episode": 81,
+      "reward": 1.488,
+      "avg_reward_10": 0.5465,
+      "steps": 10,
+      "timestamp": 1777126166.8027647
+    },
+    {
+      "episode": 82,
+      "reward": 0.497,
+      "avg_reward_10": 0.4472,
+      "steps": 10,
+      "timestamp": 1777126166.8348846
+    },
+    {
+      "episode": 83,
+      "reward": 0.0,
+      "avg_reward_10": 0.2978,
+      "steps": 10,
+      "timestamp": 1777126166.8567395
+    },
+    {
+      "episode": 84,
+      "reward": 0.993,
+      "avg_reward_10": 0.2978,
+      "steps": 10,
+      "timestamp": 1777126166.8962524
+    },
+    {
+      "episode": 85,
+      "reward": 0.0,
+      "avg_reward_10": 0.2978,
+      "steps": 10,
+      "timestamp": 1777126166.9198956
+    },
+    {
+      "episode": 86,
+      "reward": 0.496,
+      "avg_reward_10": 0.3474,
+      "steps": 10,
+      "timestamp": 1777126166.9540892
+    },
+    {
+      "episode": 87,
+      "reward": 0.0,
+      "avg_reward_10": 0.3474,
+      "steps": 10,
+      "timestamp": 1777126166.9801724
+    },
+    {
+      "episode": 88,
+      "reward": 0.0,
+      "avg_reward_10": 0.3474,
+      "steps": 10,
+      "timestamp": 1777126167.0075433
+    },
+    {
+      "episode": 89,
+      "reward": 0.0,
+      "avg_reward_10": 0.3474,
+      "steps": 10,
+      "timestamp": 1777126167.029967
+    },
+    {
+      "episode": 90,
+      "reward": 0.0,
+      "avg_reward_10": 0.3474,
+      "steps": 10,
+      "timestamp": 1777126167.0578408
+    },
+    {
+      "episode": 91,
+      "reward": 0.496,
+      "avg_reward_10": 0.2482,
+      "steps": 10,
+      "timestamp": 1777126167.0888536
+    },
+    {
+      "episode": 92,
+      "reward": 0.0,
+      "avg_reward_10": 0.1985,
+      "steps": 10,
+      "timestamp": 1777126167.1124017
+    },
+    {
+      "episode": 93,
+      "reward": 0.0,
+      "avg_reward_10": 0.1985,
+      "steps": 10,
+      "timestamp": 1777126167.1353424
+    },
+    {
+      "episode": 94,
+      "reward": 2.478,
+      "avg_reward_10": 0.347,
+      "steps": 10,
+      "timestamp": 1777126167.1929605
+    },
+    {
+      "episode": 95,
+      "reward": 0.0,
+      "avg_reward_10": 0.347,
+      "steps": 10,
+      "timestamp": 1777126167.2183313
+    },
+    {
+      "episode": 96,
+      "reward": 0.0,
+      "avg_reward_10": 0.2974,
+      "steps": 10,
+      "timestamp": 1777126167.2452624
+    },
+    {
+      "episode": 97,
+      "reward": 0.994,
+      "avg_reward_10": 0.3968,
+      "steps": 10,
+      "timestamp": 1777126167.283055
+    },
+    {
+      "episode": 98,
+      "reward": 0.0,
+      "avg_reward_10": 0.3968,
+      "steps": 10,
+      "timestamp": 1777126167.305054
+    },
+    {
+      "episode": 99,
+      "reward": 0.496,
+      "avg_reward_10": 0.4464,
+      "steps": 10,
+      "timestamp": 1777126167.3393543
+    },
+    {
+      "episode": 100,
+      "reward": 0.498,
+      "avg_reward_10": 0.4962,
+      "steps": 10,
+      "timestamp": 1777126167.3708007
+    },
+    {
+      "episode": 101,
+      "reward": 0.0,
+      "avg_reward_10": 0.4466,
+      "steps": 10,
+      "timestamp": 1777126167.3973155
+    },
+    {
+      "episode": 102,
+      "reward": 0.0,
+      "avg_reward_10": 0.4466,
+      "steps": 10,
+      "timestamp": 1777126167.4227734
+    },
+    {
+      "episode": 103,
+      "reward": 0.0,
+      "avg_reward_10": 0.4466,
+      "steps": 10,
+      "timestamp": 1777126167.44776
+    },
+    {
+      "episode": 104,
+      "reward": 0.994,
+      "avg_reward_10": 0.2982,
+      "steps": 10,
+      "timestamp": 1777126167.4877796
+    },
+    {
+      "episode": 105,
+      "reward": 0.0,
+      "avg_reward_10": 0.2982,
+      "steps": 10,
+      "timestamp": 1777126167.5091903
+    },
+    {
+      "episode": 106,
+      "reward": 0.0,
+      "avg_reward_10": 0.2982,
+      "steps": 10,
+      "timestamp": 1777126167.5357516
+    },
+    {
+      "episode": 107,
+      "reward": 0.0,
+      "avg_reward_10": 0.1988,
+      "steps": 10,
+      "timestamp": 1777126167.5632381
+    },
+    {
+      "episode": 108,
+      "reward": 0.0,
+      "avg_reward_10": 0.1988,
+      "steps": 10,
+      "timestamp": 1777126167.5826237
+    },
+    {
+      "episode": 109,
+      "reward": 0.0,
+      "avg_reward_10": 0.1492,
+      "steps": 10,
+      "timestamp": 1777126167.6034617
+    },
+    {
+      "episode": 110,
+      "reward": 0.0,
+      "avg_reward_10": 0.0994,
+      "steps": 10,
+      "timestamp": 1777126167.6271744
+    },
+    {
+      "episode": 111,
+      "reward": 0.0,
+      "avg_reward_10": 0.0994,
+      "steps": 10,
+      "timestamp": 1777126167.6481645
+    },
+    {
+      "episode": 112,
+      "reward": 0.0,
+      "avg_reward_10": 0.0994,
+      "steps": 10,
+      "timestamp": 1777126167.6660395
+    },
+    {
+      "episode": 113,
+      "reward": 0.0,
+      "avg_reward_10": 0.0994,
+      "steps": 10,
+      "timestamp": 1777126167.6892896
+    },
+    {
+      "episode": 114,
+      "reward": 0.495,
+      "avg_reward_10": 0.0495,
+      "steps": 10,
+      "timestamp": 1777126167.718169
+    },
+    {
+      "episode": 115,
+      "reward": 0.0,
+      "avg_reward_10": 0.0495,
+      "steps": 10,
+      "timestamp": 1777126167.7418618
+    },
+    {
+      "episode": 116,
+      "reward": 0.0,
+      "avg_reward_10": 0.0495,
+      "steps": 10,
+      "timestamp": 1777126167.771605
+    },
+    {
+      "episode": 117,
+      "reward": 0.0,
+      "avg_reward_10": 0.0495,
+      "steps": 10,
+      "timestamp": 1777126167.795941
+    },
+    {
+      "episode": 118,
+      "reward": 0.0,
+      "avg_reward_10": 0.0495,
+      "steps": 10,
+      "timestamp": 1777126167.8172297
+    },
+    {
+      "episode": 119,
+      "reward": 0.0,
+      "avg_reward_10": 0.0495,
+      "steps": 10,
+      "timestamp": 1777126167.8385139
+    },
+    {
+      "episode": 120,
+      "reward": 0.0,
+      "avg_reward_10": 0.0495,
+      "steps": 10,
+      "timestamp": 1777126167.866612
+    },
+    {
+      "episode": 121,
+      "reward": 0.0,
+      "avg_reward_10": 0.0495,
+      "steps": 10,
+      "timestamp": 1777126167.8894596
+    },
+    {
+      "episode": 122,
+      "reward": 0.0,
+      "avg_reward_10": 0.0495,
+      "steps": 10,
+      "timestamp": 1777126167.9128287
+    },
+    {
+      "episode": 123,
+      "reward": 1.987,
+      "avg_reward_10": 0.2482,
+      "steps": 10,
+      "timestamp": 1777126167.9630957
+    },
+    {
+      "episode": 124,
+      "reward": 0.996,
+      "avg_reward_10": 0.2983,
+      "steps": 10,
+      "timestamp": 1777126168.004328
+    },
+    {
+      "episode": 125,
+      "reward": 0.0,
+      "avg_reward_10": 0.2983,
+      "steps": 10,
+      "timestamp": 1777126168.0288804
+    },
+    {
+      "episode": 126,
+      "reward": 0.0,
+      "avg_reward_10": 0.2983,
+      "steps": 10,
+      "timestamp": 1777126168.0559452
+    },
+    {
+      "episode": 127,
+      "reward": 0.0,
+      "avg_reward_10": 0.2983,
+      "steps": 10,
+      "timestamp": 1777126168.079596
+    },
+    {
+      "episode": 128,
+      "reward": 0.0,
+      "avg_reward_10": 0.2983,
+      "steps": 10,
+      "timestamp": 1777126168.1025708
+    },
+    {
+      "episode": 129,
+      "reward": 0.0,
+      "avg_reward_10": 0.2983,
+      "steps": 10,
+      "timestamp": 1777126168.1270566
+    },
+    {
+      "episode": 130,
+      "reward": 0.0,
+      "avg_reward_10": 0.2983,
+      "steps": 10,
+      "timestamp": 1777126168.1551178
+    },
+    {
+      "episode": 131,
+      "reward": 0.0,
+      "avg_reward_10": 0.2983,
+      "steps": 10,
+      "timestamp": 1777126168.179524
+    },
+    {
+      "episode": 132,
+      "reward": 0.0,
+      "avg_reward_10": 0.2983,
+      "steps": 10,
+      "timestamp": 1777126168.2080765
+    },
+    {
+      "episode": 133,
+      "reward": 0.0,
+      "avg_reward_10": 0.0996,
+      "steps": 10,
+      "timestamp": 1777126168.229583
+    },
+    {
+      "episode": 134,
+      "reward": 0.0,
+      "avg_reward_10": 0.0,
+      "steps": 10,
+      "timestamp": 1777126168.2517965
+    },
+    {
+      "episode": 135,
+      "reward": 0.0,
+      "avg_reward_10": 0.0,
+      "steps": 10,
+      "timestamp": 1777126168.2729657
+    },
+    {
+      "episode": 136,
+      "reward": 0.0,
+      "avg_reward_10": 0.0,
+      "steps": 10,
+      "timestamp": 1777126168.2933125
+    },
+    {
+      "episode": 137,
+      "reward": 0.0,
+      "avg_reward_10": 0.0,
+      "steps": 10,
+      "timestamp": 1777126168.314638
+    },
+    {
+      "episode": 138,
+      "reward": 0.0,
+      "avg_reward_10": 0.0,
+      "steps": 10,
+      "timestamp": 1777126168.3356326
+    },
+    {
+      "episode": 139,
+      "reward": 0.0,
+      "avg_reward_10": 0.0,
+      "steps": 10,
+      "timestamp": 1777126168.358481
+    },
+    {
+      "episode": 140,
+      "reward": 0.0,
+      "avg_reward_10": 0.0,
+      "steps": 10,
+      "timestamp": 1777126168.3809943
+    },
+    {
+      "episode": 141,
+      "reward": 1.49,
+      "avg_reward_10": 0.149,
+      "steps": 10,
+      "timestamp": 1777126168.423428
+    },
+    {
+      "episode": 142,
+      "reward": 0.499,
+      "avg_reward_10": 0.1989,
+      "steps": 10,
+      "timestamp": 1777126168.453629
+    },
+    {
+      "episode": 143,
+      "reward": 0.497,
+      "avg_reward_10": 0.2486,
+      "steps": 10,
+      "timestamp": 1777126168.4899368
+    },
+    {
+      "episode": 144,
+      "reward": 0.0,
+      "avg_reward_10": 0.2486,
+      "steps": 10,
+      "timestamp": 1777126168.5151815
+    },
+    {
+      "episode": 145,
+      "reward": 1.494,
+      "avg_reward_10": 0.398,
+      "steps": 10,
+      "timestamp": 1777126168.5637481
+    },
+    {
+      "episode": 146,
+      "reward": 0.0,
+      "avg_reward_10": 0.398,
+      "steps": 10,
+      "timestamp": 1777126168.5867977
+    },
+    {
+      "episode": 147,
+      "reward": 0.0,
+      "avg_reward_10": 0.398,
+      "steps": 10,
+      "timestamp": 1777126168.6134138
+    },
+    {
+      "episode": 148,
+      "reward": 0.0,
+      "avg_reward_10": 0.398,
+      "steps": 10,
+      "timestamp": 1777126168.6417067
+    },
+    {
+      "episode": 149,
+      "reward": 0.0,
+      "avg_reward_10": 0.398,
+      "steps": 10,
+      "timestamp": 1777126168.6667042
+    },
+    {
+      "episode": 150,
+      "reward": 0.0,
+      "avg_reward_10": 0.398,
+      "steps": 10,
+      "timestamp": 1777126168.6954715
+    },
+    {
+      "episode": 151,
+      "reward": 0.0,
+      "avg_reward_10": 0.249,
+      "steps": 10,
+      "timestamp": 1777126168.7228458
+    },
+    {
+      "episode": 152,
+      "reward": 0.0,
+      "avg_reward_10": 0.1991,
+      "steps": 10,
+      "timestamp": 1777126168.74446
+    },
+    {
+      "episode": 153,
+      "reward": 0.0,
+      "avg_reward_10": 0.1494,
+      "steps": 10,
+      "timestamp": 1777126168.7701747
+    },
+    {
+      "episode": 154,
+      "reward": 0.0,
+      "avg_reward_10": 0.1494,
+      "steps": 10,
+      "timestamp": 1777126168.8011124
+    },
+    {
+      "episode": 155,
+      "reward": 0.0,
+      "avg_reward_10": 0.0,
+      "steps": 10,
+      "timestamp": 1777126168.8283591
+    },
+    {
+      "episode": 156,
+      "reward": 0.498,
+      "avg_reward_10": 0.0498,
+      "steps": 10,
+      "timestamp": 1777126168.8626132
+    },
+    {
+      "episode": 157,
+      "reward": 1.992,
+      "avg_reward_10": 0.249,
+      "steps": 10,
+      "timestamp": 1777126168.913319
+    },
+    {
+      "episode": 158,
+      "reward": 0.0,
+      "avg_reward_10": 0.249,
+      "steps": 10,
+      "timestamp": 1777126168.9436731
+    },
+    {
+      "episode": 159,
+      "reward": 3.984,
+      "avg_reward_10": 0.6474,
+      "steps": 10,
+      "timestamp": 1777126169.0219655
+    },
+    {
+      "episode": 160,
+      "reward": 0.994,
+      "avg_reward_10": 0.7468,
+      "steps": 10,
+      "timestamp": 1777126169.060335
+    },
+    {
+      "episode": 161,
+      "reward": 0.0,
+      "avg_reward_10": 0.7468,
+      "steps": 10,
+      "timestamp": 1777126169.082416
+    },
+    {
+      "episode": 162,
+      "reward": 0.0,
+      "avg_reward_10": 0.7468,
+      "steps": 10,
+      "timestamp": 1777126169.1036506
+    },
+    {
+      "episode": 163,
+      "reward": 0.997,
+      "avg_reward_10": 0.8465,
+      "steps": 10,
+      "timestamp": 1777126169.1400201
+    },
+    {
+      "episode": 164,
+      "reward": 0.0,
+      "avg_reward_10": 0.8465,
+      "steps": 10,
+      "timestamp": 1777126169.164854
+    },
+    {
+      "episode": 165,
+      "reward": 0.0,
+      "avg_reward_10": 0.8465,
+      "steps": 10,
+      "timestamp": 1777126169.187841
+    },
+    {
+      "episode": 166,
+      "reward": 0.0,
+      "avg_reward_10": 0.7967,
+      "steps": 10,
+      "timestamp": 1777126169.2180672
+    },
+    {
+      "episode": 167,
+      "reward": 0.0,
+      "avg_reward_10": 0.5975,
+      "steps": 10,
+      "timestamp": 1777126169.242311
+    },
+    {
+      "episode": 168,
+      "reward": 0.0,
+      "avg_reward_10": 0.5975,
+      "steps": 10,
+      "timestamp": 1777126169.2678456
+    },
+    {
+      "episode": 169,
+      "reward": 1.992,
+      "avg_reward_10": 0.3983,
+      "steps": 10,
+      "timestamp": 1777126169.3185213
+    },
+    {
+      "episode": 170,
+      "reward": 0.0,
+      "avg_reward_10": 0.2989,
+      "steps": 10,
+      "timestamp": 1777126169.3439324
+    },
+    {
+      "episode": 171,
+      "reward": 0.994,
+      "avg_reward_10": 0.3983,
+      "steps": 10,
+      "timestamp": 1777126169.3806212
+    },
+    {
+      "episode": 172,
+      "reward": 0.993,
+      "avg_reward_10": 0.4976,
+      "steps": 10,
+      "timestamp": 1777126169.4181435
+    },
+    {
+      "episode": 173,
+      "reward": 0.0,
+      "avg_reward_10": 0.3979,
+      "steps": 10,
+      "timestamp": 1777126169.445336
+    },
+    {
+      "episode": 174,
+      "reward": 2.49,
+      "avg_reward_10": 0.6469,
+      "steps": 10,
+      "timestamp": 1777126169.5012615
+    },
+    {
+      "episode": 175,
+      "reward": 0.0,
+      "avg_reward_10": 0.6469,
+      "steps": 10,
+      "timestamp": 1777126169.527749
+    },
+    {
+      "episode": 176,
+      "reward": 0.996,
+      "avg_reward_10": 0.7465,
+      "steps": 10,
+      "timestamp": 1777126169.5675917
+    },
+    {
+      "episode": 177,
+      "reward": 0.496,
+      "avg_reward_10": 0.7961,
+      "steps": 10,
+      "timestamp": 1777126169.603625
+    },
+    {
+      "episode": 178,
+      "reward": 0.0,
+      "avg_reward_10": 0.7961,
+      "steps": 10,
+      "timestamp": 1777126169.6321723
+    },
+    {
+      "episode": 179,
+      "reward": 0.499,
+      "avg_reward_10": 0.6468,
+      "steps": 10,
+      "timestamp": 1777126169.6647627
+    },
+    {
+      "episode": 180,
+      "reward": 0.0,
+      "avg_reward_10": 0.6468,
+      "steps": 10,
+      "timestamp": 1777126169.6924183
+    },
+    {
+      "episode": 181,
+      "reward": 0.0,
+      "avg_reward_10": 0.5474,
+      "steps": 10,
+      "timestamp": 1777126169.7196732
+    },
+    {
+      "episode": 182,
+      "reward": 0.991,
+      "avg_reward_10": 0.5472,
+      "steps": 10,
+      "timestamp": 1777126169.7599769
+    },
+    {
+      "episode": 183,
+      "reward": 0.0,
+      "avg_reward_10": 0.5472,
+      "steps": 10,
+      "timestamp": 1777126169.7824728
+    },
+    {
+      "episode": 184,
+      "reward": 0.499,
+      "avg_reward_10": 0.3481,
+      "steps": 10,
+      "timestamp": 1777126169.815999
+    },
+    {
+      "episode": 185,
+      "reward": 0.0,
+      "avg_reward_10": 0.3481,
+      "steps": 10,
+      "timestamp": 1777126169.8401809
+    },
+    {
+      "episode": 186,
+      "reward": 0.0,
+      "avg_reward_10": 0.2485,
+      "steps": 10,
+      "timestamp": 1777126169.8707411
+    },
+    {
+      "episode": 187,
+      "reward": 0.0,
+      "avg_reward_10": 0.1989,
+      "steps": 10,
+      "timestamp": 1777126169.901236
+    },
+    {
+      "episode": 188,
+      "reward": 0.0,
+      "avg_reward_10": 0.1989,
+      "steps": 10,
+      "timestamp": 1777126169.9282358
+    },
+    {
+      "episode": 189,
+      "reward": 0.498,
+      "avg_reward_10": 0.1988,
+      "steps": 10,
+      "timestamp": 1777126169.9613302
+    },
+    {
+      "episode": 190,
+      "reward": 1.494,
+      "avg_reward_10": 0.3482,
+      "steps": 10,
+      "timestamp": 1777126170.0090544
+    },
+    {
+      "episode": 191,
+      "reward": 0.993,
+      "avg_reward_10": 0.4475,
+      "steps": 10,
+      "timestamp": 1777126170.04953
+    },
+    {
+      "episode": 192,
+      "reward": 0.0,
+      "avg_reward_10": 0.3484,
+      "steps": 10,
+      "timestamp": 1777126170.0817418
+    },
+    {
+      "episode": 193,
+      "reward": 0.0,
+      "avg_reward_10": 0.3484,
+      "steps": 10,
+      "timestamp": 1777126170.1103451
+    },
+    {
+      "episode": 194,
+      "reward": 0.0,
+      "avg_reward_10": 0.2985,
+      "steps": 10,
+      "timestamp": 1777126170.1389897
+    },
+    {
+      "episode": 195,
+      "reward": 0.0,
+      "avg_reward_10": 0.2985,
+      "steps": 10,
+      "timestamp": 1777126170.1638048
+    },
+    {
+      "episode": 196,
+      "reward": 0.0,
+      "avg_reward_10": 0.2985,
+      "steps": 10,
+      "timestamp": 1777126170.1933076
+    },
+    {
+      "episode": 197,
+      "reward": 0.496,
+      "avg_reward_10": 0.3481,
+      "steps": 10,
+      "timestamp": 1777126170.228127
+    },
+    {
+      "episode": 198,
+      "reward": 0.0,
+      "avg_reward_10": 0.3481,
+      "steps": 10,
+      "timestamp": 1777126170.254078
+    },
+    {
+      "episode": 199,
+      "reward": 0.0,
+      "avg_reward_10": 0.2983,
+      "steps": 10,
+      "timestamp": 1777126170.2813797
+    },
+    {
+      "episode": 200,
+      "reward": 0.0,
+      "avg_reward_10": 0.1489,
+      "steps": 10,
+      "timestamp": 1777126170.3068354
+    },
+    {
+      "episode": 201,
+      "reward": 0.0,
+      "avg_reward_10": 0.0496,
+      "steps": 10,
+      "timestamp": 1777126170.3412461
+    },
+    {
+      "episode": 202,
+      "reward": 0.0,
+      "avg_reward_10": 0.0496,
+      "steps": 10,
+      "timestamp": 1777126170.3714192
+    },
+    {
+      "episode": 203,
+      "reward": 0.0,
+      "avg_reward_10": 0.0496,
+      "steps": 10,
+      "timestamp": 1777126170.3919642
+    },
+    {
+      "episode": 204,
+      "reward": 0.997,
+      "avg_reward_10": 0.1493,
+      "steps": 10,
+      "timestamp": 1777126170.4317214
+    },
+    {
+      "episode": 205,
+      "reward": 0.0,
+      "avg_reward_10": 0.1493,
+      "steps": 10,
+      "timestamp": 1777126170.4601142
+    },
+    {
+      "episode": 206,
+      "reward": 0.0,
+      "avg_reward_10": 0.1493,
+      "steps": 10,
+      "timestamp": 1777126170.4849014
+    },
+    {
+      "episode": 207,
+      "reward": 0.992,
+      "avg_reward_10": 0.1989,
+      "steps": 10,
+      "timestamp": 1777126170.5314615
+    },
+    {
+      "episode": 208,
+      "reward": 0.0,
+      "avg_reward_10": 0.1989,
+      "steps": 10,
+      "timestamp": 1777126170.5641975
+    },
+    {
+      "episode": 209,
+      "reward": 0.498,
+      "avg_reward_10": 0.2487,
+      "steps": 10,
+      "timestamp": 1777126170.6031895
+    },
+    {
+      "episode": 210,
+      "reward": 0.0,
+      "avg_reward_10": 0.2487,
+      "steps": 10,
+      "timestamp": 1777126170.632071
+    },
+    {
+      "episode": 211,
+      "reward": 0.0,
+      "avg_reward_10": 0.2487,
+      "steps": 10,
+      "timestamp": 1777126170.6579
+    },
+    {
+      "episode": 212,
+      "reward": 0.0,
+      "avg_reward_10": 0.2487,
+      "steps": 10,
+      "timestamp": 1777126170.6894977
+    },
+    {
+      "episode": 213,
+      "reward": 0.0,
+      "avg_reward_10": 0.2487,
+      "steps": 10,
+      "timestamp": 1777126170.7232623
+    },
+    {
+      "episode": 214,
+      "reward": 0.0,
+      "avg_reward_10": 0.149,
+      "steps": 10,
+      "timestamp": 1777126170.7526915
+    },
+    {
+      "episode": 215,
+      "reward": 0.0,
+      "avg_reward_10": 0.149,
+      "steps": 10,
+      "timestamp": 1777126170.7842617
+    },
+    {
+      "episode": 216,
+      "reward": 0.0,
+      "avg_reward_10": 0.149,
+      "steps": 10,
+      "timestamp": 1777126170.8127947
+    },
+    {
+      "episode": 217,
+      "reward": 0.498,
+      "avg_reward_10": 0.0996,
+      "steps": 10,
+      "timestamp": 1777126170.8507266
+    },
+    {
+      "episode": 218,
+      "reward": 0.0,
+      "avg_reward_10": 0.0996,
+      "steps": 10,
+      "timestamp": 1777126170.8789647
+    },
+    {
+      "episode": 219,
+      "reward": 0.0,
+      "avg_reward_10": 0.0498,
+      "steps": 10,
+      "timestamp": 1777126170.9066226
+    },
+    {
+      "episode": 220,
+      "reward": 0.0,
+      "avg_reward_10": 0.0498,
+      "steps": 10,
+      "timestamp": 1777126170.9358103
+    },
+    {
+      "episode": 221,
+      "reward": 0.498,
+      "avg_reward_10": 0.0996,
+      "steps": 10,
+      "timestamp": 1777126170.9722142
+    },
+    {
+      "episode": 222,
+      "reward": 0.0,
+      "avg_reward_10": 0.0996,
+      "steps": 10,
+      "timestamp": 1777126170.999992
+    },
+    {
+      "episode": 223,
+      "reward": 0.0,
+      "avg_reward_10": 0.0996,
+      "steps": 10,
+      "timestamp": 1777126171.0362217
+    },
+    {
+      "episode": 224,
+      "reward": 0.0,
+      "avg_reward_10": 0.0996,
+      "steps": 10,
+      "timestamp": 1777126171.066839
+    },
+    {
+      "episode": 225,
+      "reward": 0.498,
+      "avg_reward_10": 0.1494,
+      "steps": 10,
+      "timestamp": 1777126171.1017034
+    },
+    {
+      "episode": 226,
+      "reward": 0.0,
+      "avg_reward_10": 0.1494,
+      "steps": 10,
+      "timestamp": 1777126171.1291063
+    },
+    {
+      "episode": 227,
+      "reward": 0.0,
+      "avg_reward_10": 0.0996,
+      "steps": 10,
+      "timestamp": 1777126171.158602
+    },
+    {
+      "episode": 228,
+      "reward": 0.0,
+      "avg_reward_10": 0.0996,
+      "steps": 10,
+      "timestamp": 1777126171.1866224
+    },
+    {
+      "episode": 229,
+      "reward": 0.0,
+      "avg_reward_10": 0.0996,
+      "steps": 10,
+      "timestamp": 1777126171.213651
+    },
+    {
+      "episode": 230,
+      "reward": 0.0,
+      "avg_reward_10": 0.0996,
+      "steps": 10,
+      "timestamp": 1777126171.24038
+    },
+    {
+      "episode": 231,
+      "reward": 4.965,
+      "avg_reward_10": 0.5463,
+      "steps": 10,
+      "timestamp": 1777126171.325318
+    },
+    {
+      "episode": 232,
+      "reward": 0.0,
+      "avg_reward_10": 0.5463,
+      "steps": 10,
+      "timestamp": 1777126171.3547428
+    },
+    {
+      "episode": 233,
+      "reward": 0.0,
+      "avg_reward_10": 0.5463,
+      "steps": 10,
+      "timestamp": 1777126171.3889508
+    },
+    {
+      "episode": 234,
+      "reward": 0.0,
+      "avg_reward_10": 0.5463,
+      "steps": 10,
+      "timestamp": 1777126171.4238443
+    },
+    {
+      "episode": 235,
+      "reward": 0.0,
+      "avg_reward_10": 0.4965,
+      "steps": 10,
+      "timestamp": 1777126171.4531434
+    },
+    {
+      "episode": 236,
+      "reward": 0.0,
+      "avg_reward_10": 0.4965,
+      "steps": 10,
+      "timestamp": 1777126171.4820375
+    },
+    {
+      "episode": 237,
+      "reward": 0.0,
+      "avg_reward_10": 0.4965,
+      "steps": 10,
+      "timestamp": 1777126171.5066934
+    },
+    {
+      "episode": 238,
+      "reward": 0.0,
+      "avg_reward_10": 0.4965,
+      "steps": 10,
+      "timestamp": 1777126171.536187
+    },
+    {
+      "episode": 239,
+      "reward": 0.0,
+      "avg_reward_10": 0.4965,
+      "steps": 10,
+      "timestamp": 1777126171.56442
+    },
+    {
+      "episode": 240,
+      "reward": 0.496,
+      "avg_reward_10": 0.5461,
+      "steps": 10,
+      "timestamp": 1777126171.6035192
+    },
+    {
+      "episode": 241,
+      "reward": 0.0,
+      "avg_reward_10": 0.0496,
+      "steps": 10,
+      "timestamp": 1777126171.6297607
+    },
+    {
+      "episode": 242,
+      "reward": 0.0,
+      "avg_reward_10": 0.0496,
+      "steps": 10,
+      "timestamp": 1777126171.6577625
+    },
+    {
+      "episode": 243,
+      "reward": 0.0,
+      "avg_reward_10": 0.0496,
+      "steps": 10,
+      "timestamp": 1777126171.690458
+    },
+    {
+      "episode": 244,
+      "reward": 0.0,
+      "avg_reward_10": 0.0496,
+      "steps": 10,
+      "timestamp": 1777126171.7184632
+    },
+    {
+      "episode": 245,
+      "reward": 0.0,
+      "avg_reward_10": 0.0496,
+      "steps": 10,
+      "timestamp": 1777126171.7473402
+    },
+    {
+      "episode": 246,
+      "reward": 2.484,
+      "avg_reward_10": 0.298,
+      "steps": 10,
+      "timestamp": 1777126171.8076391
+    },
+    {
+      "episode": 247,
+      "reward": 0.498,
+      "avg_reward_10": 0.3478,
+      "steps": 10,
+      "timestamp": 1777126171.8418758
+    },
+    {
+      "episode": 248,
+      "reward": 0.0,
+      "avg_reward_10": 0.3478,
+      "steps": 10,
+      "timestamp": 1777126171.8737667
+    },
+    {
+      "episode": 249,
+      "reward": 0.0,
+      "avg_reward_10": 0.3478,
+      "steps": 10,
+      "timestamp": 1777126171.9025137
+    },
+    {
+      "episode": 250,
+      "reward": 0.0,
+      "avg_reward_10": 0.2982,
+      "steps": 10,
+      "timestamp": 1777126171.930794
+    },
+    {
+      "episode": 251,
+      "reward": 0.0,
+      "avg_reward_10": 0.2982,
+      "steps": 10,
+      "timestamp": 1777126171.9608362
+    },
+    {
+      "episode": 252,
+      "reward": 0.0,
+      "avg_reward_10": 0.2982,
+      "steps": 10,
+      "timestamp": 1777126171.9859326
+    },
+    {
+      "episode": 253,
+      "reward": 0.0,
+      "avg_reward_10": 0.2982,
+      "steps": 10,
+      "timestamp": 1777126172.017137
+    },
+    {
+      "episode": 254,
+      "reward": 0.0,
+      "avg_reward_10": 0.2982,
+      "steps": 10,
+      "timestamp": 1777126172.042738
+    },
+    {
+      "episode": 255,
+      "reward": 0.0,
+      "avg_reward_10": 0.2982,
+      "steps": 10,
+      "timestamp": 1777126172.067938
+    },
+    {
+      "episode": 256,
+      "reward": 0.0,
+      "avg_reward_10": 0.0498,
+      "steps": 10,
+      "timestamp": 1777126172.0967236
+    },
+    {
+      "episode": 257,
+      "reward": 0.0,
+      "avg_reward_10": 0.0,
+      "steps": 10,
+      "timestamp": 1777126172.1238704
+    },
+    {
+      "episode": 258,
+      "reward": 2.49,
+      "avg_reward_10": 0.249,
+      "steps": 10,
+      "timestamp": 1777126172.1865425
+    },
+    {
+      "episode": 259,
+      "reward": 0.0,
+      "avg_reward_10": 0.249,
+      "steps": 10,
+      "timestamp": 1777126172.2115886
+    },
+    {
+      "episode": 260,
+      "reward": 0.0,
+      "avg_reward_10": 0.249,
+      "steps": 10,
+      "timestamp": 1777126172.2403128
+    },
+    {
+      "episode": 261,
+      "reward": 0.0,
+      "avg_reward_10": 0.249,
+      "steps": 10,
+      "timestamp": 1777126172.2700853
+    },
+    {
+      "episode": 262,
+      "reward": 0.993,
+      "avg_reward_10": 0.3483,
+      "steps": 10,
+      "timestamp": 1777126172.3151896
+    },
+    {
+      "episode": 263,
+      "reward": 0.0,
+      "avg_reward_10": 0.3483,
+      "steps": 10,
+      "timestamp": 1777126172.3466022
+    },
+    {
+      "episode": 264,
+      "reward": 0.0,
+      "avg_reward_10": 0.3483,
+      "steps": 10,
+      "timestamp": 1777126172.3738382
+    },
+    {
+      "episode": 265,
+      "reward": 0.0,
+      "avg_reward_10": 0.3483,
+      "steps": 10,
+      "timestamp": 1777126172.4027774
+    },
+    {
+      "episode": 266,
+      "reward": 0.0,
+      "avg_reward_10": 0.3483,
+      "steps": 10,
+      "timestamp": 1777126172.4367423
+    },
+    {
+      "episode": 267,
+      "reward": 0.498,
+      "avg_reward_10": 0.3981,
+      "steps": 10,
+      "timestamp": 1777126172.4764686
+    },
+    {
+      "episode": 268,
+      "reward": 0.496,
+      "avg_reward_10": 0.1987,
+      "steps": 10,
+      "timestamp": 1777126172.5116048
+    },
+    {
+      "episode": 269,
+      "reward": 0.0,
+      "avg_reward_10": 0.1987,
+      "steps": 10,
+      "timestamp": 1777126172.54226
+    },
+    {
+      "episode": 270,
+      "reward": 0.0,
+      "avg_reward_10": 0.1987,
+      "steps": 10,
+      "timestamp": 1777126172.5684757
+    },
+    {
+      "episode": 271,
+      "reward": 0.0,
+      "avg_reward_10": 0.1987,
+      "steps": 10,
+      "timestamp": 1777126172.5970602
+    },
+    {
+      "episode": 272,
+      "reward": 0.0,
+      "avg_reward_10": 0.0994,
+      "steps": 10,
+      "timestamp": 1777126172.6252935
+    },
+    {
+      "episode": 273,
+      "reward": 0.0,
+      "avg_reward_10": 0.0994,
+      "steps": 10,
+      "timestamp": 1777126172.6517274
+    },
+    {
+      "episode": 274,
+      "reward": 2.481,
+      "avg_reward_10": 0.3475,
+      "steps": 10,
+      "timestamp": 1777126172.7089598
+    },
+    {
+      "episode": 275,
+      "reward": 0.0,
+      "avg_reward_10": 0.3475,
+      "steps": 10,
+      "timestamp": 1777126172.7415383
+    },
+    {
+      "episode": 276,
+      "reward": 0.0,
+      "avg_reward_10": 0.3475,
+      "steps": 10,
+      "timestamp": 1777126172.7675242
+    },
+    {
+      "episode": 277,
+      "reward": 0.0,
+      "avg_reward_10": 0.2977,
+      "steps": 10,
+      "timestamp": 1777126172.7956033
+    },
+    {
+      "episode": 278,
+      "reward": 0.0,
+      "avg_reward_10": 0.2481,
+      "steps": 10,
+      "timestamp": 1777126172.8267422
+    },
+    {
+      "episode": 279,
+      "reward": 0.0,
+      "avg_reward_10": 0.2481,
+      "steps": 10,
+      "timestamp": 1777126172.851518
+    },
+    {
+      "episode": 280,
+      "reward": 0.0,
+      "avg_reward_10": 0.2481,
+      "steps": 10,
+      "timestamp": 1777126172.8825846
+    },
+    {
+      "episode": 281,
+      "reward": 0.0,
+      "avg_reward_10": 0.2481,
+      "steps": 10,
+      "timestamp": 1777126172.9088483
+    },
+    {
+      "episode": 282,
+      "reward": 0.0,
+      "avg_reward_10": 0.2481,
+      "steps": 10,
+      "timestamp": 1777126172.9367445
+    },
+    {
+      "episode": 283,
+      "reward": 0.0,
+      "avg_reward_10": 0.2481,
+      "steps": 10,
+      "timestamp": 1777126172.9651043
+    },
+    {
+      "episode": 284,
+      "reward": 0.0,
+      "avg_reward_10": 0.0,
+      "steps": 10,
+      "timestamp": 1777126172.9947057
+    },
+    {
+      "episode": 285,
+      "reward": 0.993,
+      "avg_reward_10": 0.0993,
+      "steps": 10,
+      "timestamp": 1777126173.031294
+    },
+    {
+      "episode": 286,
+      "reward": 0.0,
+      "avg_reward_10": 0.0993,
+      "steps": 10,
+      "timestamp": 1777126173.0621233
+    },
+    {
+      "episode": 287,
+      "reward": 0.0,
+      "avg_reward_10": 0.0993,
+      "steps": 10,
+      "timestamp": 1777126173.0896692
+    },
+    {
+      "episode": 288,
+      "reward": 0.0,
+      "avg_reward_10": 0.0993,
+      "steps": 10,
+      "timestamp": 1777126173.1209939
+    },
+    {
+      "episode": 289,
+      "reward": 2.49,
+      "avg_reward_10": 0.3483,
+      "steps": 10,
+      "timestamp": 1777126173.181147
+    },
+    {
+      "episode": 290,
+      "reward": 0.498,
+      "avg_reward_10": 0.3981,
+      "steps": 10,
+      "timestamp": 1777126173.2208028
+    },
+    {
+      "episode": 291,
+      "reward": 0.0,
+      "avg_reward_10": 0.3981,
+      "steps": 10,
+      "timestamp": 1777126173.2474017
+    },
+    {
+      "episode": 292,
+      "reward": 0.0,
+      "avg_reward_10": 0.3981,
+      "steps": 10,
+      "timestamp": 1777126173.2779834
+    },
+    {
+      "episode": 293,
+      "reward": 0.0,
+      "avg_reward_10": 0.3981,
+      "steps": 10,
+      "timestamp": 1777126173.310323
+    },
+    {
+      "episode": 294,
+      "reward": 0.0,
+      "avg_reward_10": 0.3981,
+      "steps": 10,
+      "timestamp": 1777126173.338857
+    },
+    {
+      "episode": 295,
+      "reward": 0.0,
+      "avg_reward_10": 0.2988,
+      "steps": 10,
+      "timestamp": 1777126173.3678572
+    },
+    {
+      "episode": 296,
+      "reward": 0.0,
+      "avg_reward_10": 0.2988,
+      "steps": 10,
+      "timestamp": 1777126173.4012332
+    },
+    {
+      "episode": 297,
+      "reward": 0.993,
+      "avg_reward_10": 0.3981,
+      "steps": 10,
+      "timestamp": 1777126173.4437509
+    },
+    {
+      "episode": 298,
+      "reward": 0.993,
+      "avg_reward_10": 0.4974,
+      "steps": 10,
+      "timestamp": 1777126173.4869297
+    },
+    {
+      "episode": 299,
+      "reward": 0.498,
+      "avg_reward_10": 0.2982,
+      "steps": 10,
+      "timestamp": 1777126173.5283222
+    },
+    {
+      "episode": 300,
+      "reward": 0.0,
+      "avg_reward_10": 0.2484,
+      "steps": 10,
+      "timestamp": 1777126173.5583825
+    }
+  ],
+  "elo_history": [
+    {
+      "version": "v1",
+      "elo": 1000.0,
+      "timestamp": 1777123731.3833814,
+      "matches_played": 0,
+      "matches_won": 0
+    },
+    {
+      "version": "v1",
+      "elo": 1000.0,
+      "timestamp": 1777123927.5676858,
+      "matches_played": 0,
+      "matches_won": 0
+    },
+    {
+      "version": "v1",
+      "elo": 1000,
+      "timestamp": 1777124360.5546696,
+      "matches_played": 0,
+      "matches_won": 0
+    },
+    {
+      "version": "v1",
+      "elo": 1000,
+      "timestamp": 1777124382.8623354,
+      "matches_played": 0,
+      "matches_won": 0
+    },
+    {
+      "version": "v1",
+      "elo": 1000,
+      "timestamp": 1777124471.6835203,
+      "matches_played": 0,
+      "matches_won": 0
+    },
+    {
+      "version": "v1",
+      "elo": 1000,
+      "timestamp": 1777124528.6645849,
+      "matches_played": 0,
+      "matches_won": 0
+    },
+    {
+      "version": "v1",
+      "elo": 1000,
+      "timestamp": 1777124596.0238655,
+      "matches_played": 0,
+      "matches_won": 0
+    },
+    {
+      "version": "v1",
+      "elo": 1000,
+      "timestamp": 1777125064.9548092,
+      "matches_played": 0,
+      "matches_won": 0
+    },
+    {
+      "version": "v1",
+      "elo": 1684.81,
+      "timestamp": 1777126173.5511327,
+      "matches_played": 294,
+      "matches_won": 294
+    },
+    {
+      "version": "v2",
+      "elo": 984.0,
+      "timestamp": 1777125844.5666466,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 984.74,
+      "timestamp": 1777125921.3752928,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 985.44,
+      "timestamp": 1777126164.6765635,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 986.1,
+      "timestamp": 1777126164.846864,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 986.72,
+      "timestamp": 1777126164.8668456,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 987.31,
+      "timestamp": 1777126164.8985274,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 987.87,
+      "timestamp": 1777126164.918924,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 988.39,
+      "timestamp": 1777126164.9475358,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 988.88,
+      "timestamp": 1777126164.9866447,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 989.34,
+      "timestamp": 1777126165.0050395,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 989.77,
+      "timestamp": 1777126165.0231514,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 990.18,
+      "timestamp": 1777126165.039189,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 990.56,
+      "timestamp": 1777126165.0615425,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 990.91,
+      "timestamp": 1777126165.0828848,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 991.25,
+      "timestamp": 1777126165.113778,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 991.57,
+      "timestamp": 1777126165.1363885,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 991.87,
+      "timestamp": 1777126165.1543436,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 992.15,
+      "timestamp": 1777126165.1805587,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 992.41,
+      "timestamp": 1777126165.1992993,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 992.66,
+      "timestamp": 1777126165.2736945,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 992.9,
+      "timestamp": 1777126165.2963672,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 993.12,
+      "timestamp": 1777126165.319099,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 993.33,
+      "timestamp": 1777126165.334713,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 993.53,
+      "timestamp": 1777126165.3543806,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 993.72,
+      "timestamp": 1777126165.3914268,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 993.9,
+      "timestamp": 1777126165.4059973,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 994.07,
+      "timestamp": 1777126165.4302444,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 994.24,
+      "timestamp": 1777126165.4532864,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 994.39,
+      "timestamp": 1777126165.4807098,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 994.54,
+      "timestamp": 1777126165.527942,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 994.68,
+      "timestamp": 1777126165.5580235,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 994.82,
+      "timestamp": 1777126165.580461,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 994.94,
+      "timestamp": 1777126165.6174302,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 995.07,
+      "timestamp": 1777126165.6394398,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 995.18,
+      "timestamp": 1777126165.6724403,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 995.3,
+      "timestamp": 1777126165.709424,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 995.4,
+      "timestamp": 1777126165.7280204,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 995.51,
+      "timestamp": 1777126165.7547455,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 995.61,
+      "timestamp": 1777126165.7909346,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 995.7,
+      "timestamp": 1777126165.821289,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 995.79,
+      "timestamp": 1777126165.8445752,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 995.88,
+      "timestamp": 1777126165.86543,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 995.96,
+      "timestamp": 1777126165.894441,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 996.05,
+      "timestamp": 1777126165.9194252,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 996.12,
+      "timestamp": 1777126165.9394643,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 996.2,
+      "timestamp": 1777126165.9668932,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 996.27,
+      "timestamp": 1777126165.9895298,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 996.34,
+      "timestamp": 1777126166.0062773,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 996.41,
+      "timestamp": 1777126166.0272062,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 996.47,
+      "timestamp": 1777126166.0710464,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 996.54,
+      "timestamp": 1777126166.1190841,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 996.6,
+      "timestamp": 1777126166.1411347,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 996.66,
+      "timestamp": 1777126166.1754482,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 996.72,
+      "timestamp": 1777126166.2050493,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 996.77,
+      "timestamp": 1777126166.2337024,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 996.82,
+      "timestamp": 1777126166.2608573,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 996.88,
+      "timestamp": 1777126166.2837248,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 996.93,
+      "timestamp": 1777126166.3188117,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 996.98,
+      "timestamp": 1777126166.3464727,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.02,
+      "timestamp": 1777126166.3707702,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.07,
+      "timestamp": 1777126166.4152324,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.11,
+      "timestamp": 1777126166.442127,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.16,
+      "timestamp": 1777126166.460336,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.2,
+      "timestamp": 1777126166.479274,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.24,
+      "timestamp": 1777126166.5055952,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.28,
+      "timestamp": 1777126166.5479434,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.32,
+      "timestamp": 1777126166.5887678,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.36,
+      "timestamp": 1777126166.6232574,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.39,
+      "timestamp": 1777126166.6471906,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.43,
+      "timestamp": 1777126166.6736941,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.46,
+      "timestamp": 1777126166.694112,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.5,
+      "timestamp": 1777126166.7145786,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.53,
+      "timestamp": 1777126166.73906,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.56,
+      "timestamp": 1777126166.7594404,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.59,
+      "timestamp": 1777126166.8009822,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.62,
+      "timestamp": 1777126166.8329556,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.65,
+      "timestamp": 1777126166.8547935,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.68,
+      "timestamp": 1777126166.894477,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.71,
+      "timestamp": 1777126166.918061,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.74,
+      "timestamp": 1777126166.952158,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.77,
+      "timestamp": 1777126166.9781497,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.79,
+      "timestamp": 1777126167.005706,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.82,
+      "timestamp": 1777126167.0281506,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.84,
+      "timestamp": 1777126167.055937,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.87,
+      "timestamp": 1777126167.0868595,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.89,
+      "timestamp": 1777126167.1106598,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.92,
+      "timestamp": 1777126167.1334958,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.94,
+      "timestamp": 1777126167.1908886,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.96,
+      "timestamp": 1777126167.2162385,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 997.99,
+      "timestamp": 1777126167.2433407,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.01,
+      "timestamp": 1777126167.28101,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.03,
+      "timestamp": 1777126167.3031883,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.05,
+      "timestamp": 1777126167.3375232,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.07,
+      "timestamp": 1777126167.368853,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.09,
+      "timestamp": 1777126167.3953888,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.11,
+      "timestamp": 1777126167.4207895,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.13,
+      "timestamp": 1777126167.4458778,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.15,
+      "timestamp": 1777126167.485621,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.17,
+      "timestamp": 1777126167.5072577,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.18,
+      "timestamp": 1777126167.5336337,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.2,
+      "timestamp": 1777126167.5611506,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.22,
+      "timestamp": 1777126167.5807233,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.24,
+      "timestamp": 1777126167.601637,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.25,
+      "timestamp": 1777126167.625192,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.27,
+      "timestamp": 1777126167.646306,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.29,
+      "timestamp": 1777126167.663923,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.3,
+      "timestamp": 1777126167.6871502,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.32,
+      "timestamp": 1777126167.716103,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.33,
+      "timestamp": 1777126167.7397335,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.35,
+      "timestamp": 1777126167.7695336,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.36,
+      "timestamp": 1777126167.7937768,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.38,
+      "timestamp": 1777126167.8150709,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.39,
+      "timestamp": 1777126167.8363116,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.41,
+      "timestamp": 1777126167.86429,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.42,
+      "timestamp": 1777126167.8874242,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.43,
+      "timestamp": 1777126167.9104202,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.45,
+      "timestamp": 1777126167.9608753,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.46,
+      "timestamp": 1777126168.0018578,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.47,
+      "timestamp": 1777126168.0267985,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.49,
+      "timestamp": 1777126168.0536425,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.5,
+      "timestamp": 1777126168.0771472,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.51,
+      "timestamp": 1777126168.1001964,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.52,
+      "timestamp": 1777126168.124865,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.53,
+      "timestamp": 1777126168.1526031,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.55,
+      "timestamp": 1777126168.1772423,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.56,
+      "timestamp": 1777126168.2056224,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.57,
+      "timestamp": 1777126168.227208,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.58,
+      "timestamp": 1777126168.2495542,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.59,
+      "timestamp": 1777126168.2700975,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.6,
+      "timestamp": 1777126168.290956,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.61,
+      "timestamp": 1777126168.3120298,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.62,
+      "timestamp": 1777126168.3333237,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.63,
+      "timestamp": 1777126168.356128,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.64,
+      "timestamp": 1777126168.378302,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.65,
+      "timestamp": 1777126168.4212356,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.66,
+      "timestamp": 1777126168.4512246,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.67,
+      "timestamp": 1777126168.4875271,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.68,
+      "timestamp": 1777126168.5124974,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.69,
+      "timestamp": 1777126168.5610814,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.7,
+      "timestamp": 1777126168.584335,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.71,
+      "timestamp": 1777126168.610875,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.72,
+      "timestamp": 1777126168.6390092,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.73,
+      "timestamp": 1777126168.663933,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.74,
+      "timestamp": 1777126168.6929753,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.75,
+      "timestamp": 1777126168.7205145,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.76,
+      "timestamp": 1777126168.7420938,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.77,
+      "timestamp": 1777126168.7676706,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.77,
+      "timestamp": 1777126168.7985938,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.78,
+      "timestamp": 1777126168.8257544,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.79,
+      "timestamp": 1777126168.8596306,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.8,
+      "timestamp": 1777126168.910635,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.81,
+      "timestamp": 1777126168.9409049,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.81,
+      "timestamp": 1777126169.019254,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.82,
+      "timestamp": 1777126169.057732,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.83,
+      "timestamp": 1777126169.0798287,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.84,
+      "timestamp": 1777126169.101211,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.84,
+      "timestamp": 1777126169.1375291,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.85,
+      "timestamp": 1777126169.161974,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.86,
+      "timestamp": 1777126169.185213,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.87,
+      "timestamp": 1777126169.2154703,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.87,
+      "timestamp": 1777126169.2393835,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.88,
+      "timestamp": 1777126169.2652009,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.89,
+      "timestamp": 1777126169.3159208,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.89,
+      "timestamp": 1777126169.3412116,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.9,
+      "timestamp": 1777126169.37776,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.91,
+      "timestamp": 1777126169.4154382,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.91,
+      "timestamp": 1777126169.4424696,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.92,
+      "timestamp": 1777126169.4984,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.93,
+      "timestamp": 1777126169.5249631,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.93,
+      "timestamp": 1777126169.5645301,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.94,
+      "timestamp": 1777126169.6006105,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.95,
+      "timestamp": 1777126169.6289933,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.95,
+      "timestamp": 1777126169.6612873,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.96,
+      "timestamp": 1777126169.689632,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.96,
+      "timestamp": 1777126169.716848,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.97,
+      "timestamp": 1777126169.7572043,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.98,
+      "timestamp": 1777126169.779555,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.98,
+      "timestamp": 1777126169.8132055,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.99,
+      "timestamp": 1777126169.8366764,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 998.99,
+      "timestamp": 1777126169.8678815,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.0,
+      "timestamp": 1777126169.8983498,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.01,
+      "timestamp": 1777126169.925464,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.01,
+      "timestamp": 1777126169.9584715,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.02,
+      "timestamp": 1777126170.0060225,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.02,
+      "timestamp": 1777126170.0464666,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.03,
+      "timestamp": 1777126170.0788054,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.03,
+      "timestamp": 1777126170.1073742,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.04,
+      "timestamp": 1777126170.1360404,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.04,
+      "timestamp": 1777126170.1607301,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.05,
+      "timestamp": 1777126170.19011,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.05,
+      "timestamp": 1777126170.2251885,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.06,
+      "timestamp": 1777126170.2512195,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.06,
+      "timestamp": 1777126170.2778597,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.07,
+      "timestamp": 1777126170.303899,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.07,
+      "timestamp": 1777126170.338117,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.08,
+      "timestamp": 1777126170.3684912,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.08,
+      "timestamp": 1777126170.3892248,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.09,
+      "timestamp": 1777126170.4286647,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.09,
+      "timestamp": 1777126170.457028,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.1,
+      "timestamp": 1777126170.481629,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.1,
+      "timestamp": 1777126170.5282583,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.1,
+      "timestamp": 1777126170.5609207,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.11,
+      "timestamp": 1777126170.6004224,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.11,
+      "timestamp": 1777126170.6284158,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.12,
+      "timestamp": 1777126170.6548362,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.12,
+      "timestamp": 1777126170.686408,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.13,
+      "timestamp": 1777126170.7200973,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.13,
+      "timestamp": 1777126170.7494493,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.14,
+      "timestamp": 1777126170.7810993,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.14,
+      "timestamp": 1777126170.8098218,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.14,
+      "timestamp": 1777126170.8473592,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.15,
+      "timestamp": 1777126170.875538,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.15,
+      "timestamp": 1777126170.9033928,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.16,
+      "timestamp": 1777126170.9326317,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.16,
+      "timestamp": 1777126170.9691,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.16,
+      "timestamp": 1777126170.996258,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.17,
+      "timestamp": 1777126171.0328217,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.17,
+      "timestamp": 1777126171.0637448,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.18,
+      "timestamp": 1777126171.0983477,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.18,
+      "timestamp": 1777126171.1259587,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.18,
+      "timestamp": 1777126171.1554506,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.19,
+      "timestamp": 1777126171.1833396,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.19,
+      "timestamp": 1777126171.2102911,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.19,
+      "timestamp": 1777126171.2371511,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.2,
+      "timestamp": 1777126171.3219857,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.2,
+      "timestamp": 1777126171.3512292,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.2,
+      "timestamp": 1777126171.3857274,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.21,
+      "timestamp": 1777126171.4204097,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.21,
+      "timestamp": 1777126171.4498436,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.22,
+      "timestamp": 1777126171.478542,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.22,
+      "timestamp": 1777126171.5030105,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.22,
+      "timestamp": 1777126171.532731,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.23,
+      "timestamp": 1777126171.5609646,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.23,
+      "timestamp": 1777126171.5997841,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.23,
+      "timestamp": 1777126171.6255345,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.24,
+      "timestamp": 1777126171.6540494,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.24,
+      "timestamp": 1777126171.687118,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.24,
+      "timestamp": 1777126171.7150319,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.25,
+      "timestamp": 1777126171.7436543,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.25,
+      "timestamp": 1777126171.8038921,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.25,
+      "timestamp": 1777126171.8385313,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.25,
+      "timestamp": 1777126171.8705368,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.26,
+      "timestamp": 1777126171.8991494,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.26,
+      "timestamp": 1777126171.9272363,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.26,
+      "timestamp": 1777126171.9573374,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.27,
+      "timestamp": 1777126171.982497,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.27,
+      "timestamp": 1777126172.0133934,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.27,
+      "timestamp": 1777126172.0392785,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.28,
+      "timestamp": 1777126172.0642545,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.28,
+      "timestamp": 1777126172.0931704,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.28,
+      "timestamp": 1777126172.1204655,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.28,
+      "timestamp": 1777126172.1826985,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.29,
+      "timestamp": 1777126172.20826,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.29,
+      "timestamp": 1777126172.2366917,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.29,
+      "timestamp": 1777126172.266199,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.3,
+      "timestamp": 1777126172.3112798,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.3,
+      "timestamp": 1777126172.3426478,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.3,
+      "timestamp": 1777126172.3702593,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.3,
+      "timestamp": 1777126172.3991027,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.31,
+      "timestamp": 1777126172.4331465,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.31,
+      "timestamp": 1777126172.472858,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.31,
+      "timestamp": 1777126172.5081086,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.32,
+      "timestamp": 1777126172.5382886,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.32,
+      "timestamp": 1777126172.5646753,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.32,
+      "timestamp": 1777126172.5933228,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.32,
+      "timestamp": 1777126172.621543,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.33,
+      "timestamp": 1777126172.6479,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.33,
+      "timestamp": 1777126172.7047458,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.33,
+      "timestamp": 1777126172.7372684,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.33,
+      "timestamp": 1777126172.7636528,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.34,
+      "timestamp": 1777126172.791671,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.34,
+      "timestamp": 1777126172.8231192,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.34,
+      "timestamp": 1777126172.847963,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.34,
+      "timestamp": 1777126172.8787804,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.35,
+      "timestamp": 1777126172.905076,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.35,
+      "timestamp": 1777126172.9331675,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.35,
+      "timestamp": 1777126172.9609525,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.35,
+      "timestamp": 1777126172.9913135,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.36,
+      "timestamp": 1777126173.0275881,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.36,
+      "timestamp": 1777126173.0582888,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.36,
+      "timestamp": 1777126173.0858912,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.36,
+      "timestamp": 1777126173.1171584,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.36,
+      "timestamp": 1777126173.1772437,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.37,
+      "timestamp": 1777126173.2170572,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.37,
+      "timestamp": 1777126173.2437568,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.37,
+      "timestamp": 1777126173.2743022,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.37,
+      "timestamp": 1777126173.3061197,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.38,
+      "timestamp": 1777126173.3345122,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.38,
+      "timestamp": 1777126173.363526,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.38,
+      "timestamp": 1777126173.3971822,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.38,
+      "timestamp": 1777126173.4397786,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.38,
+      "timestamp": 1777126173.4827502,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.39,
+      "timestamp": 1777126173.5240242,
+      "matches_played": 1,
+      "matches_won": 0
+    },
+    {
+      "version": "v2",
+      "elo": 999.39,
+      "timestamp": 1777126173.5544176,
+      "matches_played": 1,
+      "matches_won": 0
+    }
+  ],
+  "champion": "v1",
+  "playbook": "# DBRE Diagnostic Playbook v1\n## Priority Order:\n1. Check EXPLAIN ANALYZE for sequential scans \u2192 always add index if found\n2. Check for N+1 patterns \u2192 rewrite as JOIN\n3. Check join order \u2192 put smallest table first\n4. Check for SELECT * \u2192 replace with specific columns\n5. Check for functions on indexed columns \u2192 rewrite to use index\n6. Verify correctness by comparing row count with original\n"
+}
