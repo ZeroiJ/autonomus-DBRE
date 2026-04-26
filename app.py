@@ -22,6 +22,9 @@ def api_post(endpoint: str, data: dict):
         return {}
 
 
+def get_status_html():
+    return "<div style='background:#1a1a2e;padding:10px;border-radius:8px;margin-bottom:10px'><span style='color:#00ff88'>●</span> <b>System Online</b> | ELO Evolution Active | v3 Champion (1016.7)</div>"
+
 def inject_chaos():
     data = api_post("/reset", {})
     obs = data.get("observation", {})
@@ -130,7 +133,7 @@ label { color: #aaa !important; }
 """
 
 with __import__("gradio").Blocks(css=CSS, title="Autonomic DBRE") as demo:
-    __import__("gradio").Markdown("# 🧠 Autonomic DBRE — Self-Improving Database Agent")
+    __import__("gradio").Markdown("# 🧠 Autonomic DBRE\n### Self-Improving Database Reliability Agent\n*Meta PyTorch OpenEnv Hackathon Finale — April 2026*")
 
     with __import__("gradio").Row():
         with __import__("gradio").Column(scale=1):

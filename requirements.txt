@@ -20,3 +20,4 @@ peft>=0.7.0
 bitsandbytes>=0.41.0
 matplotlib>=3.8.0
 httpx>=0.25.0
+faker>=18.0.0

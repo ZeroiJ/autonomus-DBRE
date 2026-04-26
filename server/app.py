@@ -119,3 +119,10 @@ async def get_current_playbook() -> dict[str, Any]:
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
+
+
+@app.post("/train")
+def start_training():
+    import subprocess
+    subprocess.Popen(["python3", "train.py"])
+    return {"status": "training started"}
