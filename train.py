@@ -73,7 +73,7 @@ trainer = GRPOTrainer(
     model=model, processing_class=tokenizer,
     args=GRPOConfig(output_dir="./grpo_dbre", num_train_epochs=1, per_device_train_batch_size=2,
                     gradient_accumulation_steps=8, learning_rate=5e-5, logging_steps=5,
-                    save_steps=50, max_steps=500, bf16=True, report_to="none"),
+                    save_steps=50, max_steps=300, bf16=True, report_to="none"),
     train_dataset=dummy, reward_funcs=[dbre_reward],
 )
 
