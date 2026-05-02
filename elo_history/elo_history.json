@@ -1,9 +1,9 @@
 [
   {
     "version": "v1",
-    "elo": 968.74,
-    "timestamp": 1777153722.200179,
-    "matches_played": 2,
+    "elo": 821.46,
+    "timestamp": 1777709063.2004843,
+    "matches_played": 15,
     "matches_won": 0
   },
   {
@@ -3461,6 +3461,97 @@
     "version": "v493",
     "elo": 1016.77,
     "timestamp": 1777153735.4491806,
+    "matches_played": 1,
+    "matches_won": 1
+  },
+  {
+    "version": "v2",
+    "elo": 1014.56,
+    "timestamp": 1777705209.0093431,
+    "matches_played": 1,
+    "matches_won": 1
+  },
+  {
+    "version": "v2",
+    "elo": 1013.9,
+    "timestamp": 1777706501.4506817,
+    "matches_played": 1,
+    "matches_won": 1
+  },
+  {
+    "version": "v2",
+    "elo": 1013.28,
+    "timestamp": 1777706530.2974992,
+    "matches_played": 1,
+    "matches_won": 1
+  },
+  {
+    "version": "v2",
+    "elo": 1012.69,
+    "timestamp": 1777707018.270637,
+    "matches_played": 1,
+    "matches_won": 1
+  },
+  {
+    "version": "v2",
+    "elo": 1012.13,
+    "timestamp": 1777707047.1695037,
+    "matches_played": 1,
+    "matches_won": 1
+  },
+  {
+    "version": "v2",
+    "elo": 1011.61,
+    "timestamp": 1777707335.283463,
+    "matches_played": 1,
+    "matches_won": 1
+  },
+  {
+    "version": "v2",
+    "elo": 1011.12,
+    "timestamp": 1777707364.100688,
+    "matches_played": 1,
+    "matches_won": 1
+  },
+  {
+    "version": "v2",
+    "elo": 1010.66,
+    "timestamp": 1777707479.242157,
+    "matches_played": 1,
+    "matches_won": 1
+  },
+  {
+    "version": "v2",
+    "elo": 1010.23,
+    "timestamp": 1777707537.008984,
+    "matches_played": 1,
+    "matches_won": 1
+  },
+  {
+    "version": "v2",
+    "elo": 1009.82,
+    "timestamp": 1777707709.9227448,
+    "matches_played": 1,
+    "matches_won": 1
+  },
+  {
+    "version": "v2",
+    "elo": 1009.44,
+    "timestamp": 1777708171.9839444,
+    "matches_played": 1,
+    "matches_won": 1
+  },
+  {
+    "version": "v2",
+    "elo": 1009.09,
+    "timestamp": 1777708287.2283704,
+    "matches_played": 1,
+    "matches_won": 1
+  },
+  {
+    "version": "v2",
+    "elo": 1008.75,
+    "timestamp": 1777709063.2032814,
     "matches_played": 1,
     "matches_won": 1
   }
