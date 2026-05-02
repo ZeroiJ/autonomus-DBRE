@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "autonomic-dbre"
+version = "0.1.0"
+description = "Autonomic DBRE — PostgreSQL SQL optimizer CLI/API with Qwen2.5-Coder LoRA. Train adapters locally; weights are not bundled (see README)."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+  "torch>=2.1.0",
+  "transformers>=4.36.0",
+  "trl>=0.7.0",
+  "unsloth>=2024.1",
+  "gymnasium>=0.29.0",
+  "fastapi>=0.104.0",
+  "uvicorn>=0.24.0",
+  "psycopg2-binary>=2.9.9",
+  "pydantic>=2.5.0",
+  "numpy>=1.24.0",
+  "gradio>=4.0.0",
+  "plotly>=5.18.0",
+  "sqlparse>=0.4.4",
+  "sqlglot>=20.0.0",
+  "requests>=2.31.0",
+  "docker>=7.0.0",
+  "rich>=13.7.0",
+  "accelerate>=0.25.0",
+  "peft>=0.7.0",
+  "bitsandbytes>=0.41.0",
+  "matplotlib>=3.8.0",
+  "httpx>=0.25.0",
+  "faker>=18.0.0",
+  "click>=8.1.0",
+]
+
+[project.scripts]
+dbre = "dbre_cli.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["dbre*", "dbre_cli*"]

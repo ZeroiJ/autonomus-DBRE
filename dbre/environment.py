@@ -7,7 +7,7 @@ from typing import Dict, Any, Optional, Tuple
 from pydantic import BaseModel, Field
 
 from dbre.database import DBREPostgres
-from dbre.workload_generator import WorkloadGenerator
+from dbre.procedural_workload import ProceduralWorkloadGenerator
 from dbre.schema_drift import SchemaDrifter
 from dbre.playbook import PlaybookManager
 from dbre.meta_agent import MetaAgent
@@ -49,7 +49,7 @@ class DBREEnvironment:
         self.db.create_tables()
         self.db.seed_data()
 
-        self.workload_gen = WorkloadGenerator(self.db.conn)
+        self.workload_gen = ProceduralWorkloadGenerator(self.db.conn)
         self.schema_drifter = SchemaDrifter(self.db.conn)
         self.playbook_manager = PlaybookManager()
         self.elo_tracker = PlaybookELOTracker()
